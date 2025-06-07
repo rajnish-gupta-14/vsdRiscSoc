@@ -32,7 +32,8 @@ riscv32-unknown-elf-gcc --version
 
  EXPECTED OUTPUT:
 
-![WhatsApp Image 2025-06-03 at 15 42 08_2e7d8809](https://github.com/user-attachments/assets/989c9f8e-7087-48fb-878b-e650cc827d4f)
+![Screenshot from 2025-06-07 16-53-29](https://github.com/user-attachments/assets/200a4033-0b56-4477-a512-7725174ed4cb)
+
 
 
 ```bash
@@ -41,7 +42,8 @@ riscv32-unknown-elf-objdump --version
 
 EXPECTED OUTPUT:
 
-![WhatsApp Image 2025-06-03 at 16 28 38_e4dec069](https://github.com/user-attachments/assets/0c5f2e27-7f32-4b8e-8dbc-69f7d4381c46)
+![image](https://github.com/user-attachments/assets/65c41032-495c-4cbc-909a-0469540f8170)
+
 
 
 ```bash
